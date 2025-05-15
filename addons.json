@@ -1,0 +1,180 @@
+{
+  "addons": [
+    {
+      "name": "!Compatibility",
+      "hash": "6d48f85174e78e661e30b9853b9565da"
+    },
+    {
+      "name": "!DebugTools",
+      "hash": "a3ac1d9415b0e16d3248dfd79f72dd9e"
+    },
+    {
+      "name": "Aloft",
+      "hash": "0d739f510326df702114dddf037356d6"
+    },
+    {
+      "name": "Bagnon",
+      "hash": "2ad7120f158377b7d06fbd2cb7d153c8"
+    },
+    {
+      "name": "Bagnon_Config",
+      "hash": "9ca6a5475e211a31e3c2f0f422c8e97a"
+    },
+    {
+      "name": "Bagnon_Forever",
+      "hash": "cafa62af3577dad0c1d9bf0215272deb"
+    },
+    {
+      "name": "Bagnon_GuildBank",
+      "hash": "718e7ac297c8e2ede4602039de0a9002"
+    },
+    {
+      "name": "Bagnon_Options",
+      "hash": "e2215a7df043968aa1799286234aee84"
+    },
+    {
+      "name": "Bagnon_Tooltips",
+      "hash": "6d1a50961285854421a13b88409951f5"
+    },
+    {
+      "name": "Bagnon_VoidStorage",
+      "hash": "1773c434285b3425aa96b414b08d5191"
+    },
+    {
+      "name": "Bartender4",
+      "hash": "aeabe7b08c56444fef000f48da9cf3d2"
+    },
+    {
+      "name": "DamageMeters",
+      "hash": "dad4aafb540fd4c5b4d1457b311073a6"
+    },
+    {
+      "name": "ElvUI",
+      "hash": "a737173ecadb3927d63003a804a89ec7"
+    },
+    {
+      "name": "ElvUI_Config",
+      "hash": "a456bd464b3bbfc6d5f9d6844f7ce9a6"
+    },
+    {
+      "name": "FocusFrame",
+      "hash": "8d8c112d6983b92c362002dbaeb7e614"
+    },
+    {
+      "name": "Grid",
+      "hash": "49325e5bc2cebd842b7fa764a495de1b"
+    },
+    {
+      "name": "MikScrollingBattleText",
+      "hash": "ae68bda78cd66b5223e61ee917c51a3b"
+    },
+    {
+      "name": "MoveAnything",
+      "hash": "1be21e2174a5b6da651ef75f6f737273"
+    },
+    {
+      "name": "MSBTOptions",
+      "hash": "cae0f99055a3e8dbf0e3c429163b0785"
+    },
+    {
+      "name": "OmniCC",
+      "hash": "b8e55baebd8549ac6d288b2f39ebc0d2"
+    },
+    {
+      "name": "OmniCC_Config",
+      "hash": "dd9d1230bb43ad10eaa0fe81a7aef22e"
+    },
+    {
+      "name": "OmniCC_Options",
+      "hash": "c596fd464a3da8aaae64e1ed31d2a06e"
+    },
+    {
+      "name": "PallyPower",
+      "hash": "5ad8ed707499941ae3ad4d88929ef03a"
+    },
+    {
+      "name": "PitBull",
+      "hash": "cb946a76b6b04f5e23276821884c7a7f"
+    },
+    {
+      "name": "Quartz",
+      "hash": "a988de20ffdef63d58c6860f9c7d44b1"
+    },
+    {
+      "name": "QuestHelper",
+      "hash": "60bcf441ab58796c276987e5fadaac93"
+    },
+    {
+      "name": "Recount",
+      "hash": "dcb217d2a5b0173860e9a3ae6019fe15"
+    },
+    {
+      "name": "XPerl",
+      "hash": "202bc6702d867a61b00f8e08b259e327"
+    },
+    {
+      "name": "XPerl_ArcaneBar",
+      "hash": "b4e2997d181598311abc234e4c318778"
+    },
+    {
+      "name": "XPerl_CustomHighlight",
+      "hash": "14e4ca6727b063313497c19bed1d5b44"
+    },
+    {
+      "name": "XPerl_Options",
+      "hash": "66cd5b9e7fc9f8e932dfb20fb1d6c53b"
+    },
+    {
+      "name": "XPerl_Party",
+      "hash": "5d6009b29fd5eae0987e0e5ae21c38ea"
+    },
+    {
+      "name": "XPerl_PartyPet",
+      "hash": "266189e4ce496273856de4a06e2267c0"
+    },
+    {
+      "name": "XPerl_Player",
+      "hash": "1f5147b854b7899707b26283c5e0c770"
+    },
+    {
+      "name": "XPerl_PlayerBuffs",
+      "hash": "125c3bb973110ce9f68a265d143be5cd"
+    },
+    {
+      "name": "XPerl_PlayerPet",
+      "hash": "919ee04fa2e33dc4c71c6cbdfa311cb6"
+    },
+    {
+      "name": "XPerl_RaidAdmin",
+      "hash": "fa67913189879e4683ec5ac1340f1538"
+    },
+    {
+      "name": "XPerl_RaidFrames",
+      "hash": "7a946c880aba4eb76df46cca1013eabf"
+    },
+    {
+      "name": "XPerl_RaidHelper",
+      "hash": "2d9b16a1a3c88f0ddc1f5f63450d197a"
+    },
+    {
+      "name": "XPerl_RaidMonitor",
+      "hash": "68bf101d0341e5576c38a18be4d05287"
+    },
+    {
+      "name": "XPerl_RaidPets",
+      "hash": "62c244666f4b236b631e4bd52aeb3eaf"
+    },
+    {
+      "name": "XPerl_Target",
+      "hash": "ee9900ecfe623d0569c2d52d322cd984"
+    },
+    {
+      "name": "XPerl_TargetTarget",
+      "hash": "435624a0924f266f74e456a97280989c"
+    },
+    {
+      "name": "XPerl_Tutorial",
+      "hash": "7e568dc99c02bcd9279e25d6e76074f5"
+    }
+  ]
+}
