@@ -69,30 +69,6 @@
             "name": "ElvUI_Config"
         },
         {
-            "hash": "435ea87fb49b0594c24423374ad0eccd",
-            "name": "Blizzard_GMSurveyUI"
-        },
-        {
-            "hash": "0dc2a70629ecfec65970fcda0e61cc49",
-            "name": "Blizzard_CombatText"
-        },
-        {
-            "hash": "e0d665c4d8148e637b9ea451cadf76bc",
-            "name": "Blizzard_GuildBankUI"
-        },
-        {
-            "hash": "4230626f587d43bf7433f19442a47fda",
-            "name": "Blizzard_TimeManager"
-        },
-        {
-            "hash": "025f1517dd4c9778caa7ffdbd0b958dc",
-            "name": "Blizzard_TradeSkillUI"
-        },
-        {
-            "hash": "14e4ca6727b063313497c19bed1d5b44",
-            "name": "XPerl_CustomHighlight"
-        },
-        {
             "hash": "dad4aafb540fd4c5b4d1457b311073a6",
             "name": "DamageMeters"
         },
@@ -227,6 +203,30 @@
         {
             "hash": "1773c434285b3425aa96b414b08d5191",
             "name": "Bagnon_VoidStorage"
+        },
+        {
+            "hash": "435ea87fb49b0594c24423374ad0eccd",
+            "name": "Blizzard_GMSurveyUI"
+        },
+        {
+            "hash": "0dc2a70629ecfec65970fcda0e61cc49",
+            "name": "Blizzard_CombatText"
+        },
+        {
+            "hash": "e0d665c4d8148e637b9ea451cadf76bc",
+            "name": "Blizzard_GuildBankUI"
+        },
+        {
+            "hash": "4230626f587d43bf7433f19442a47fda",
+            "name": "Blizzard_TimeManager"
+        },
+        {
+            "hash": "025f1517dd4c9778caa7ffdbd0b958dc",
+            "name": "Blizzard_TradeSkillUI"
+        },
+        {
+            "hash": "14e4ca6727b063313497c19bed1d5b44",
+            "name": "XPerl_CustomHighlight"
         },
         {
             "hash": "ae68bda78cd66b5223e61ee917c51a3b",
