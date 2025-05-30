@@ -53,12 +53,12 @@
             "name": "BT_MH"
         },
         {
-            "hash": "c30d39ae50a56df686e5ce6ee235957c",
-            "name": "Yata"
-        },
-        {
             "hash": "7f76b10446cd9b5ad6065d5e77241a1b",
             "name": "Omen"
+        },
+        {
+            "hash": "c30d39ae50a56df686e5ce6ee235957c",
+            "name": "Yata"
         },
         {
             "hash": "fa34f0e242c059211da6bb3f1971a504",
@@ -101,16 +101,16 @@
             "name": "IceHUD"
         },
         {
-            "hash": "2761504e94a982f1562a0f3abaf8bb34",
-            "name": "Aloft"
+            "hash": "8462189560fcdb32ea4c40c494049802",
+            "name": "XLoot"
         },
         {
             "hash": "ae420478b6b4c42f8aba35d9e2a76251",
             "name": "Bagsy"
         },
         {
-            "hash": "8462189560fcdb32ea4c40c494049802",
-            "name": "XLoot"
+            "hash": "2761504e94a982f1562a0f3abaf8bb34",
+            "name": "Aloft"
         },
         {
             "hash": "64f32348cca9d6cc52f97b7d37115e44",
@@ -203,10 +203,6 @@
         {
             "hash": "9e77f50691a7284c215690599e074345",
             "name": "QSAlert"
-        },
-        {
-            "hash": "e2753cb6cd4ac57dda4112d0a1ecc0be",
-            "name": "HealBot"
         },
         {
             "hash": "3377eee2b7e3b4e8e08174b39cbdc627",
