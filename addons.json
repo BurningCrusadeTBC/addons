@@ -53,12 +53,12 @@
             "name": "BT_MH"
         },
         {
-            "hash": "7f76b10446cd9b5ad6065d5e77241a1b",
-            "name": "Omen"
-        },
-        {
             "hash": "c30d39ae50a56df686e5ce6ee235957c",
             "name": "Yata"
+        },
+        {
+            "hash": "7f76b10446cd9b5ad6065d5e77241a1b",
+            "name": "Omen"
         },
         {
             "hash": "fa34f0e242c059211da6bb3f1971a504",
@@ -101,16 +101,16 @@
             "name": "IceHUD"
         },
         {
-            "hash": "8462189560fcdb32ea4c40c494049802",
-            "name": "XLoot"
-        },
-        {
             "hash": "2761504e94a982f1562a0f3abaf8bb34",
             "name": "Aloft"
         },
         {
             "hash": "ae420478b6b4c42f8aba35d9e2a76251",
             "name": "Bagsy"
+        },
+        {
+            "hash": "8462189560fcdb32ea4c40c494049802",
+            "name": "XLoot"
         },
         {
             "hash": "64f32348cca9d6cc52f97b7d37115e44",
@@ -135,6 +135,10 @@
         {
             "hash": "7673fb811293d7caa90545f3bde34cc2",
             "name": "lib-st"
+        },
+        {
+            "hash": "900509e981b324881e18a023556aa14d",
+            "name": "Gladdy"
         },
         {
             "hash": "90fa72dcdfc97a1f7f2e51305bcad1ce",
@@ -209,12 +213,12 @@
             "name": "BigWigs"
         },
         {
-            "hash": "677b133e2ad79a49a2ea306a1f4c4eb8",
-            "name": "Luggage"
-        },
-        {
             "hash": "3b3dbce71135275659fcb161b178ebe8",
             "name": "PitBull"
+        },
+        {
+            "hash": "677b133e2ad79a49a2ea306a1f4c4eb8",
+            "name": "Luggage"
         },
         {
             "hash": "c614aa0a30dea4a3fb034f9153ddac12",
@@ -245,12 +249,12 @@
             "name": "Dominos"
         },
         {
-            "hash": "b06a443e2a267e138e0525ceeba85824",
-            "name": "Skinner"
-        },
-        {
             "hash": "9b833f37868a35488ffd8d5b5eed5895",
             "name": "BT_Maggi"
+        },
+        {
+            "hash": "b06a443e2a267e138e0525ceeba85824",
+            "name": "Skinner"
         },
         {
             "hash": "9bfcdc59faff44b14ba1210f4f66665f",
