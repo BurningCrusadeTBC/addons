@@ -101,10 +101,6 @@
             "name": "IceHUD"
         },
         {
-            "hash": "8462189560fcdb32ea4c40c494049802",
-            "name": "XLoot"
-        },
-        {
             "hash": "2761504e94a982f1562a0f3abaf8bb34",
             "name": "Aloft"
         },
@@ -113,16 +109,32 @@
             "name": "Bagsy"
         },
         {
+            "hash": "8462189560fcdb32ea4c40c494049802",
+            "name": "XLoot"
+        },
+        {
             "hash": "64f32348cca9d6cc52f97b7d37115e44",
             "name": "Snoop"
+        },
+        {
+            "hash": "f8bdbb5df463ce6e94190a2436010434",
+            "name": "Cutup"
         },
         {
             "hash": "59ceaea5103d18b8d6a3ca08cd93f0cf",
             "name": "BT_Eye"
         },
         {
+            "hash": "15503b1e47ad48861b9c37506e90078a",
+            "name": "OmniCC"
+        },
+        {
             "hash": "ea9c9b6d26d5fe7326b2a4720c947623",
             "name": "ItemID"
+        },
+        {
+            "hash": "2a4892615d3409846b7554bc29954955",
+            "name": "OneBag"
         },
         {
             "hash": "8e0a92b7e3ee00aa4205f06859cdb2d5",
@@ -131,6 +143,10 @@
         {
             "hash": "e4a5f510afcadf2654386163828a381f",
             "name": "WhoLib"
+        },
+        {
+            "hash": "203eb7eda2c6db3f0b6669be1c3deafa",
+            "name": "TipTac"
         },
         {
             "hash": "7673fb811293d7caa90545f3bde34cc2",
@@ -205,16 +221,20 @@
             "name": "QSAlert"
         },
         {
+            "hash": "0bdd42a84356d818fe0bb119d69c11e6",
+            "name": "OneBank"
+        },
+        {
             "hash": "3377eee2b7e3b4e8e08174b39cbdc627",
             "name": "BigWigs"
         },
         {
-            "hash": "3b3dbce71135275659fcb161b178ebe8",
-            "name": "PitBull"
-        },
-        {
             "hash": "677b133e2ad79a49a2ea306a1f4c4eb8",
             "name": "Luggage"
+        },
+        {
+            "hash": "3b3dbce71135275659fcb161b178ebe8",
+            "name": "PitBull"
         },
         {
             "hash": "0f3c0e37fc80159c6a9abb8e21f6e471",
@@ -249,12 +269,12 @@
             "name": "Dominos"
         },
         {
-            "hash": "9b833f37868a35488ffd8d5b5eed5895",
-            "name": "BT_Maggi"
-        },
-        {
             "hash": "b06a443e2a267e138e0525ceeba85824",
             "name": "Skinner"
+        },
+        {
+            "hash": "9b833f37868a35488ffd8d5b5eed5895",
+            "name": "BT_Maggi"
         },
         {
             "hash": "9bfcdc59faff44b14ba1210f4f66665f",
@@ -329,6 +349,10 @@
             "name": "RuneHero"
         },
         {
+            "hash": "e4f1ac117d07a1e6ea407c318ccf426e",
+            "name": "SellJunk"
+        },
+        {
             "hash": "cbd68a32b07848a4888bec305cc4de21",
             "name": "EasyCopy"
         },
@@ -367,6 +391,10 @@
         {
             "hash": "550be1650e49641720642aaf4c642529",
             "name": "LibBars-1.0"
+        },
+        {
+            "hash": "6b0520d73a5c4b6ca5f34b10729a7b7c",
+            "name": "EQCompare"
         },
         {
             "hash": "2ecd0d6667d2b5e8d7c9cb6858428e01",
@@ -433,24 +461,24 @@
             "name": "EavesDrop"
         },
         {
-            "hash": "d5f40da78b3d81d9ce3668c6717d52a6",
-            "name": "SaySapped"
-        },
-        {
             "hash": "d79c3e968e6e1630a84389a9894c32ae",
             "name": "SmartBuff"
+        },
+        {
+            "hash": "d5f40da78b3d81d9ce3668c6717d52a6",
+            "name": "SaySapped"
         },
         {
             "hash": "657696757dd0ca0c482d40b49f8536af",
             "name": "Cheaptard"
         },
         {
-            "hash": "5f269b273288db2e9958e00ce1958508",
-            "name": "cyCircled"
-        },
-        {
             "hash": "159f02c9d299ff713cd415f72a539c56",
             "name": "GrindLoot"
+        },
+        {
+            "hash": "5f269b273288db2e9958e00ce1958508",
+            "name": "cyCircled"
         },
         {
             "hash": "2ad1277094d4d1f7aed45925420df2bc",
@@ -461,20 +489,20 @@
             "name": "AtlasLoot"
         },
         {
-            "hash": "b01b9a814c7ac3eaf7206e1583c90a60",
-            "name": "TriviaBot"
-        },
-        {
             "hash": "f90a6f5006af556fe8b1e2f524c02d85",
             "name": "ClassLoot"
         },
         {
-            "hash": "042a11ff1f6358c4df924097c63828c4",
-            "name": "Mendeleev"
+            "hash": "b01b9a814c7ac3eaf7206e1583c90a60",
+            "name": "TriviaBot"
         },
         {
             "hash": "c5b606e86518c277f3cbbcc6fdbaa8d4",
             "name": "ButtonBin"
+        },
+        {
+            "hash": "042a11ff1f6358c4df924097c63828c4",
+            "name": "Mendeleev"
         },
         {
             "hash": "bf2767bd1150e4024ce702e6d181aac3",
@@ -577,12 +605,12 @@
             "name": "VisualHeal"
         },
         {
-            "hash": "fba3848a87281c18c12fec216812bdd0",
-            "name": "ClassIcons"
-        },
-        {
             "hash": "9cbaafd1a7e01e67ae2325d4c667d594",
             "name": "Perl_Focus"
+        },
+        {
+            "hash": "fba3848a87281c18c12fec216812bdd0",
+            "name": "ClassIcons"
         },
         {
             "hash": "cf950121af33b211955aa3a2d160ace5",
@@ -617,12 +645,12 @@
             "name": "SpazureMod"
         },
         {
-            "hash": "b740f4f8531800b489a816b15ff24fd2",
-            "name": "TankPoints"
-        },
-        {
             "hash": "04c4ec04a8864e97b4ab07d8562f5ed4",
             "name": "LibDogTag-3.0"
+        },
+        {
+            "hash": "b740f4f8531800b489a816b15ff24fd2",
+            "name": "TankPoints"
         },
         {
             "hash": "cc99f5d0634c0c1ac9d58ab3b5eeadc8",
@@ -713,12 +741,12 @@
             "name": "XPerl_Party"
         },
         {
-            "hash": "0394659530e11527607a6d2cb0d51fda",
-            "name": "Perl_Player"
-        },
-        {
             "hash": "63cd46e2e9e17e202b4cacd2269b9d90",
             "name": "MonkeyClock"
+        },
+        {
+            "hash": "0394659530e11527607a6d2cb0d51fda",
+            "name": "Perl_Player"
         },
         {
             "hash": "d037edfe0ff92947e1aa00a1600d9319",
@@ -737,12 +765,12 @@
             "name": "MobileVault"
         },
         {
-            "hash": "7781bec33d307aa700ccf594454de5b6",
-            "name": "Prat_Signon"
-        },
-        {
             "hash": "a948e2fe20a87c2e4b28ff5dc768281b",
             "name": "MonkeySpeed"
+        },
+        {
+            "hash": "7781bec33d307aa700ccf594454de5b6",
+            "name": "Prat_Signon"
         },
         {
             "hash": "e9fbb2e3e2521161558080fbdd29d0eb",
@@ -757,10 +785,6 @@
             "name": "MonkeyBuddy"
         },
         {
-            "hash": "732119e5773ed767105fc3fa45727d05",
-            "name": "Lifebloomer"
-        },
-        {
             "hash": "da2ed29c53531af63796364fa8111e1a",
             "name": "GratuityLib"
         },
@@ -769,12 +793,16 @@
             "name": "DHUD_Options"
         },
         {
-            "hash": "be1c61398f7d1208d005b5a3808874dc",
-            "name": "QuestHelper"
+            "hash": "732119e5773ed767105fc3fa45727d05",
+            "name": "Lifebloomer"
         },
         {
             "hash": "88d00f34d8423953f837e4e7369589ad",
             "name": "TitanSkills"
+        },
+        {
+            "hash": "be1c61398f7d1208d005b5a3808874dc",
+            "name": "QuestHelper"
         },
         {
             "hash": "0355d74e806ada20b741ba44e3ab3466",
@@ -785,12 +813,12 @@
             "name": "picoFriends"
         },
         {
-            "hash": "054f1b93e7885e60630245a58ec6d9be",
-            "name": "Contemplate"
-        },
-        {
             "hash": "44e799eb26b2c6115e83f6b24b41d38e",
             "name": "JumpCounter"
+        },
+        {
+            "hash": "054f1b93e7885e60630245a58ec6d9be",
+            "name": "Contemplate"
         },
         {
             "hash": "57b1d0b46709bb5b30c9786e0a372e96",
@@ -799,6 +827,10 @@
         {
             "hash": "32f03ddf7161f2fbd95c979518286601",
             "name": "MonkeyQuest"
+        },
+        {
+            "hash": "eed868391fa79c6318d54df5f60e6163",
+            "name": "Auctionator"
         },
         {
             "hash": "31d40055e4cf5534cdf6acc201d24d35",
@@ -841,20 +873,20 @@
             "name": "XPerl_Player"
         },
         {
-            "hash": "4170438f04fbd0ef2e693d8166b42caf",
-            "name": "MagicTargets"
-        },
-        {
             "hash": "b1ce29b38e9941aa53458c6251a31ffa",
             "name": "Dominos_Buff"
         },
         {
-            "hash": "719ae0a19ee18dc281abfbd40ab1fd58",
-            "name": "FriendsFacts"
+            "hash": "4170438f04fbd0ef2e693d8166b42caf",
+            "name": "MagicTargets"
         },
         {
             "hash": "608c2370b354261c932403bab36bb2f3",
             "name": "CombatFilter"
+        },
+        {
+            "hash": "719ae0a19ee18dc281abfbd40ab1fd58",
+            "name": "FriendsFacts"
         },
         {
             "hash": "dbd8d273abd8d6cb630640aef06a2886",
@@ -865,8 +897,8 @@
             "name": "FishingBuddy"
         },
         {
-            "hash": "480d55a9ff656d31f73db94423cc4078",
-            "name": "RangeDisplay"
+            "hash": "1e242641ebf7d3129411d89e86865fda",
+            "name": "RangeRecolor"
         },
         {
             "hash": "aab5a9711971b5e1cd497397e4adcf56",
@@ -875,6 +907,10 @@
         {
             "hash": "7cf028567c8948d5bf48608becd0a892",
             "name": "Dominos_Cast"
+        },
+        {
+            "hash": "480d55a9ff656d31f73db94423cc4078",
+            "name": "RangeDisplay"
         },
         {
             "hash": "b333d3f9c43e106e810f09a63551e640",
@@ -905,6 +941,10 @@
             "name": "GridStatusAFK"
         },
         {
+            "hash": "2a7e9df3ebed1b822dd123cdbe3b295c",
+            "name": "FuBar_DuraTek"
+        },
+        {
             "hash": "c9c28640139a245c9b8a6fa5ad88f267",
             "name": "FuBar_GuildFu"
         },
@@ -913,12 +953,12 @@
             "name": "FuBar_AtlasFu"
         },
         {
-            "hash": "2a7e9df3ebed1b822dd123cdbe3b295c",
-            "name": "FuBar_DuraTek"
-        },
-        {
             "hash": "3c275b3cde005b186ad0ad7b769fa7ef",
             "name": "ArkInventory"
+        },
+        {
+            "hash": "f87f0e1783e8c50d615f5951f5ec779c",
+            "name": "ErrorMonster"
         },
         {
             "hash": "ff7851f4ea65192d8c7d1f6a131f3d5a",
@@ -949,6 +989,10 @@
             "name": "PitBull_Spark"
         },
         {
+            "hash": "c67e22e4d0ac05447c22ed765d81f66c",
+            "name": "TipTacTalents"
+        },
+        {
             "hash": "1acf441ff21c9eca2ebe3a74030aa12a",
             "name": "ag_UnitFrames"
         },
@@ -963,6 +1007,10 @@
         {
             "hash": "0e5f59848ce675c36a6ebef580ff5ea4",
             "name": "LibGratuity-3.0"
+        },
+        {
+            "hash": "e4abf07119a8d025868970ad3fa9e326",
+            "name": "TipTacOptions"
         },
         {
             "hash": "9945314d398aaf4736af4511362def0e",
@@ -1009,8 +1057,16 @@
             "name": "Collectinator"
         },
         {
+            "hash": "92f5416dc812fb14db95931687bb87af",
+            "name": "simpleMinimap"
+        },
+        {
             "hash": "e0e06b0a2e213e2f51e5435318d697c8",
             "name": "InflameXPGraph"
+        },
+        {
+            "hash": "1150d631b60bf55fca48f946f91b31f4",
+            "name": "OmniCC_Options"
         },
         {
             "hash": "a40070aa7ef53ba09612890543177e47",
@@ -1029,12 +1085,12 @@
             "name": "XPerl_PartyPet"
         },
         {
-            "hash": "6a5ec9906b8bfb7be061de337aa31c9b",
-            "name": "AlarArtRemover"
-        },
-        {
             "hash": "97154ab04c9c8cc280fdf016cc93534e",
             "name": "RaidBuffStatus"
+        },
+        {
+            "hash": "6a5ec9906b8bfb7be061de337aa31c9b",
+            "name": "AlarArtRemover"
         },
         {
             "hash": "4d5d364545ff53074e52aa1117ea59cd",
@@ -1177,12 +1233,12 @@
             "name": "FuBar_LocationFu"
         },
         {
-            "hash": "dbcb6613a293caf782080d6c859b979f",
-            "name": "XPerl_RaidFrames"
-        },
-        {
             "hash": "ada8a1dd95781ba40d3cfd1f3ff9b15a",
             "name": "LibSimpleFrame-1.0"
+        },
+        {
+            "hash": "dbcb6613a293caf782080d6c859b979f",
+            "name": "XPerl_RaidFrames"
         },
         {
             "hash": "5d625dac8b9b34ca6503000e257d5f9b",
